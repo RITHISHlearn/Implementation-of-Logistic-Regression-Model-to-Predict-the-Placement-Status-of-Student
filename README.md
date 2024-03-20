@@ -119,48 +119,61 @@ print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
-Placement Data:
+                 Placement Data:
 ![11](https://github.com/RITHISHlearn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446645/54d6318c-b56b-4945-a437-1025391f996e)
 
 
-Salary Data:
+
+                  Salary Data:
 ![10](https://github.com/RITHISHlearn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446645/d3b269e9-e6fd-47c5-a7fe-23c1fe6b5678)
 
 
-Checking the null() function:
+
+               Checking the null() function:
 ![9](https://github.com/RITHISHlearn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446645/40624c89-518f-4012-976d-76444cc9fb93)
 
 
-Data Duplicate:
-![8](https://github.com/RITHISHlearn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446645/474f5886-52ec-4014-b470-a7f32e914d83)
+
+              Data Duplicate:
+![8](https://github.com/RITHISHlearn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446645/474f5886-52ec-4014-b470-a7f32e914d83) 
 
 
-Print Data:
+
+
+                Print Data:
 ![7](https://github.com/RITHISHlearn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446645/1dcd41d8-0a43-4b64-a598-396c3533789f)
 
 
-Data-Status:
+
+                 Data-Status:
 ![6](https://github.com/RITHISHlearn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446645/abc280e0-a0b3-4d8f-b08b-495bccde7ad3)
 
 
-Y_prediction array:
+
+
+                       Y_prediction array:
 ![5](https://github.com/RITHISHlearn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446645/f05e3d4b-4d2e-4b11-a687-8c48b51875ca)
 
 
-Accuracy value:
+
+                       Accuracy value:
 ![4](https://github.com/RITHISHlearn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446645/a13468c1-2a8a-481b-a35c-0c0826aacf6d)
 
 
-Confusion array:
+
+                        Confusion array:
 ![3](https://github.com/RITHISHlearn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446645/2059f51d-ae22-4c38-a049-053a613c0f74)
 
 
-Classification Report:
+
+             Classification Report:
 ![2](https://github.com/RITHISHlearn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446645/6dc479b3-c917-4745-b51a-1294ded36b3a)
 
 
-Prediction of LR:
+
+                Prediction of LR:
 ![1](https://github.com/RITHISHlearn/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446645/94ea2e05-6639-4f11-ae88-463505d815d6)
+
 
 
 
